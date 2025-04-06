@@ -1,2 +1,1 @@
-Cox's Bazar jabo
-Saint Martin jabo
+dvd = 1.600000
