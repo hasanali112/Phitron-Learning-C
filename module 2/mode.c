@@ -1,9 +1,12 @@
 #include <stdio.h>
 int main()
 {
-    int a = 18;
-    int b = 5;
-    int rem = 12 % 5;
-    printf("%d", rem);
+    int x = 10;
+    int y = 12;
+    if (x >= y || x <= y)
+    {
+        printf("hi ");
+    }
+    printf("hello");
     return 0;
 }
